@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<drawing>
+    <name>Mona Lisa</name>
+    <author>L. da Vincis</author>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="circle">
+        <color>#ffe0bd</color>
+        <point>
+            <x>100.0</x>
+            <y>100.0</y>
+        </point>
+        <point>
+            <x>175.0</x>
+            <y>100.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="circle">
+        <color>#0000ff</color>
+        <point>
+            <x>75.0</x>
+            <y>75.0</y>
+        </point>
+        <point>
+            <x>85.0</x>
+            <y>75.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="circle">
+        <color>#0000ff</color>
+        <point>
+            <x>125.0</x>
+            <y>75.0</y>
+        </point>
+        <point>
+            <x>135.0</x>
+            <y>75.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#000000</color>
+        <point>
+            <x>95.0</x>
+            <y>100.0</y>
+        </point>
+        <point>
+            <x>105.0</x>
+            <y>115.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#ff0000</color>
+        <point>
+            <x>55.0</x>
+            <y>130.0</y>
+        </point>
+        <point>
+            <x>145.0</x>
+            <y>140.0</y>
+        </point>
+    </shape>
+</drawing>
